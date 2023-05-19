@@ -1,0 +1,13 @@
+table tbody {
+  font-size: 1.2rem;
+  border: 3px solid black;
+}
+tr {
+  border: 3px solid black;
+}
+th {
+  border: 3px solid black;
+}
+td {
+  border: 3px solid black;
+}
